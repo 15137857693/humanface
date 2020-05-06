@@ -21,8 +21,8 @@ public class FaceEngine {
     public static void compare(String register,String discern){
 
         //从官网获取
-        String appId = "GfZrfJNHJznPdBCfCk1m65AkgJ7s9nmFpCWNjsbZ9Au8";
-        String sdkKey = "CSZ5DL8wE9ivesqifHBFX8HpTD7gh2zEoG3b6r7X4gNm";
+        String appId = "";
+        String sdkKey = "";
 
 
         com.arcsoft.face.FaceEngine faceEngine = new com.arcsoft.face.FaceEngine("D:\\arcsoftlib");
